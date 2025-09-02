@@ -1,0 +1,400 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a6057d68-9aaf-4f19-9f8e-99587b237b6d" name="更改" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
+  <component name="ProjectId" id="2vlBMzDQ5RJ1bNkpwYxnNc8GH8y" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.(AAAI)FFA特征融合注意力模块.executor&quot;: &quot;Run&quot;,
+    &quot;Python.(Arxiv 2024)MCAttention及二次创新思路.executor&quot;: &quot;Run&quot;,
+    &quot;Python.(Arxiv2024)SCSA空间通道协同注意力.executor&quot;: &quot;Run&quot;,
+    &quot;Python.(CVPR 2024)FADC频率自适应扩张卷积模块.executor&quot;: &quot;Run&quot;,
+    &quot;Python.(ICML 2024)SLAttention简化线性注意力，图像分类，目标检测(CV和NLP通用).executor&quot;: &quot;Run&quot;,
+    &quot;Python.(PRCA 2023)SBA((小目标检测，医学图像分割,暗光增强)).executor&quot;: &quot;Run&quot;,
+    &quot;Python.(PRCV 2023)GLSA(小目标检测，医学图像分割).executor&quot;: &quot;Run&quot;,
+    &quot;Python.5_1_Gated_Fusion.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Conv2Fomer.executor&quot;: &quot;Run&quot;,
+    &quot;Python.EA.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.FADC.executor&quot;: &quot;Run&quot;,
+    &quot;Python.PCONV.executor&quot;: &quot;Run&quot;,
+    &quot;Python.STVit.executor&quot;: &quot;Run&quot;,
+    &quot;Python.afno.executor&quot;: &quot;Run&quot;,
+    &quot;Python.config.executor&quot;: &quot;Run&quot;,
+    &quot;Python.draw.executor&quot;: &quot;Run&quot;,
+    &quot;Python.draw2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.eca.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.gam.executor&quot;: &quot;Run&quot;,
+    &quot;Python.gate.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.generate_supervoxels.executor&quot;: &quot;Run&quot;,
+    &quot;Python.heat.executor&quot;: &quot;Run&quot;,
+    &quot;Python.hilo.executor&quot;: &quot;Run&quot;,
+    &quot;Python.main_m.executor&quot;: &quot;Run&quot;,
+    &quot;Python.mask.executor&quot;: &quot;Run&quot;,
+    &quot;Python.mask_generalization_cmr.executor&quot;: &quot;Run&quot;,
+    &quot;Python.mask_generalization_ct.executor&quot;: &quot;Run&quot;,
+    &quot;Python.mask_generalization_mri.executor&quot;: &quot;Run&quot;,
+    &quot;Python.sla.executor&quot;: &quot;Run&quot;,
+    &quot;Python.swt.executor&quot;: &quot;Run&quot;,
+    &quot;Python.swt2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.test.executor&quot;: &quot;Run&quot;,
+    &quot;Python.train.executor&quot;: &quot;Run&quot;,
+    &quot;Python.training.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/newbaseline/RPT-main/models&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;python.debugger.dataview.coloredbydefault&quot;: &quot;false&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\newbaseline\RPT-main\models" />
+      <recent name="D:\newbaseline\RPT-main" />
+      <recent name="D:\newbaseline\RPT-main\news" />
+      <recent name="D:\newbaseline\RPT-main\best" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.mask_generalization_ct">
+    <configuration name="eca" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="RPT-main" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/news" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/news/eca.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="gate" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="RPT-main" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/news" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/news/gate.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="heat" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="RPT-main" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/visualization" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/visualization/heat.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="mask_generalization_ct" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="RPT-main" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/visualization" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/visualization/mask_generalization_ct.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="train" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="RPT-main" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/train.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.mask_generalization_ct" />
+        <item itemvalue="Python.train" />
+        <item itemvalue="Python.heat" />
+        <item itemvalue="Python.gate" />
+        <item itemvalue="Python.eca" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-822845ee3bb5-JavaScript-PY-243.23654.177" />
+        <option value="bundled-python-sdk-91d3a02ef49d-43b77aa2d136-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-243.23654.177" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="默认任务">
+      <changelist id="a6057d68-9aaf-4f19-9f8e-99587b237b6d" name="更改" comment="" />
+      <created>1744709735784</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1744709735784</updated>
+      <workItem from="1744709736852" duration="3046000" />
+      <workItem from="1745734909148" duration="284000" />
+      <workItem from="1745735341115" duration="1133000" />
+      <workItem from="1745740964305" duration="3000" />
+      <workItem from="1745742052380" duration="4895000" />
+      <workItem from="1745747024342" duration="3378000" />
+      <workItem from="1745831671953" duration="3000" />
+      <workItem from="1745832370728" duration="5000" />
+      <workItem from="1745832385955" duration="5000" />
+      <workItem from="1745918395186" duration="4661000" />
+      <workItem from="1745935960526" duration="19684000" />
+      <workItem from="1746432206333" duration="7141000" />
+      <workItem from="1746500713301" duration="11511000" />
+      <workItem from="1746539741953" duration="4801000" />
+      <workItem from="1746595228453" duration="5149000" />
+      <workItem from="1746619301073" duration="1935000" />
+      <workItem from="1746679986434" duration="8218000" />
+      <workItem from="1746709440723" duration="13350000" />
+      <workItem from="1747017711512" duration="422000" />
+      <workItem from="1747018389675" duration="7944000" />
+      <workItem from="1747107257048" duration="4785000" />
+      <workItem from="1747145673284" duration="2431000" />
+      <workItem from="1747211446620" duration="5072000" />
+      <workItem from="1747283217626" duration="4304000" />
+      <workItem from="1747359684595" duration="2525000" />
+      <workItem from="1747391657875" duration="3537000" />
+      <workItem from="1747709053285" duration="627000" />
+      <workItem from="1747906352036" duration="1593000" />
+      <workItem from="1748011757170" duration="498000" />
+      <workItem from="1748068255223" duration="1058000" />
+      <workItem from="1748182888947" duration="870000" />
+      <workItem from="1748230039472" duration="11447000" />
+      <workItem from="1748602064799" duration="31000" />
+      <workItem from="1748608347322" duration="1731000" />
+      <workItem from="1748610107460" duration="592000" />
+      <workItem from="1748612623650" duration="990000" />
+      <workItem from="1748667278665" duration="12739000" />
+      <workItem from="1748756782236" duration="1563000" />
+      <workItem from="1748764131811" duration="620000" />
+      <workItem from="1748773491136" duration="1930000" />
+      <workItem from="1748949521139" duration="599000" />
+      <workItem from="1749014408579" duration="1163000" />
+      <workItem from="1749021606791" duration="614000" />
+      <workItem from="1749187192953" duration="213000" />
+      <workItem from="1749365026756" duration="2422000" />
+      <workItem from="1749818512690" duration="609000" />
+      <workItem from="1749826577315" duration="807000" />
+      <workItem from="1750058478350" duration="2340000" />
+      <workItem from="1750075160579" duration="226000" />
+      <workItem from="1750075831608" duration="5000" />
+      <workItem from="1750127773615" duration="17066000" />
+      <workItem from="1750904525703" duration="7042000" />
+      <workItem from="1751101013055" duration="473000" />
+      <workItem from="1751186031004" duration="18581000" />
+      <workItem from="1751292323022" duration="1566000" />
+      <workItem from="1751344806979" duration="4810000" />
+      <workItem from="1751429636665" duration="4533000" />
+      <workItem from="1751437313629" duration="829000" />
+      <workItem from="1751449175123" duration="853000" />
+      <workItem from="1752043499842" duration="43000" />
+      <workItem from="1752114519288" duration="256000" />
+      <workItem from="1752115363778" duration="5660000" />
+      <workItem from="1752130011205" duration="602000" />
+      <workItem from="1752204615683" duration="1333000" />
+      <workItem from="1752210786158" duration="2569000" />
+      <workItem from="1752633580363" duration="17429000" />
+      <workItem from="1752666148261" duration="1441000" />
+      <workItem from="1752745145471" duration="9840000" />
+      <workItem from="1753147838491" duration="1745000" />
+      <workItem from="1753171367104" duration="13534000" />
+      <workItem from="1753248628894" duration="2203000" />
+      <workItem from="1753252432171" duration="2579000" />
+      <workItem from="1753325968523" duration="2767000" />
+      <workItem from="1753330492392" duration="1096000" />
+      <workItem from="1753334615363" duration="1894000" />
+      <workItem from="1753345026235" duration="6000" />
+      <workItem from="1753345056688" duration="581000" />
+      <workItem from="1754029297579" duration="4717000" />
+      <workItem from="1754353932311" duration="1478000" />
+      <workItem from="1754442313243" duration="861000" />
+      <workItem from="1754472523955" duration="689000" />
+      <workItem from="1754636956465" duration="4020000" />
+      <workItem from="1755230252094" duration="3000" />
+      <workItem from="1755506041670" duration="3619000" />
+      <workItem from="1755576953071" duration="1248000" />
+      <workItem from="1755578222026" duration="1298000" />
+      <workItem from="1755684207083" duration="1240000" />
+      <workItem from="1755763335938" duration="995000" />
+      <workItem from="1755770002899" duration="919000" />
+      <workItem from="1756778495885" duration="26000" />
+      <workItem from="1756778754143" duration="320000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/dataloaders/datasets_outside.py</url>
+          <line>226</line>
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/visualization/draw.py</url>
+          <line>39</line>
+          <option name="timeStamp" value="19" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/news/EA.py</url>
+          <line>33</line>
+          <option name="timeStamp" value="28" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/news/eca.py</url>
+          <line>23</line>
+          <option name="timeStamp" value="36" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/news/gate.py</url>
+          <line>13</line>
+          <option name="timeStamp" value="39" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/models/fewshot.py</url>
+          <line>100</line>
+          <option name="timeStamp" value="40" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="PythonConfigurationType">
+        <watch expression="qry_bs" />
+        <watch expression="qry_bs" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/RPT_main$train.coverage" NAME="train 覆盖结果" MODIFIED="1755764691845" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/RPT_main$generate_supervoxels.coverage" NAME="generate_supervoxels 覆盖结果" MODIFIED="1744710645783" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/data/supervoxels" />
+    <SUITE FILE_PATH="coverage/RPT_main$_Arxiv_2024_MCAttention.coverage" NAME="(Arxiv 2024)MCAttention及二次创新思路 覆盖结果" MODIFIED="1746006974057" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../../BaiduNetdiskDownload" />
+    <SUITE FILE_PATH="coverage/RPT_main$PCONV.coverage" NAME="PCONV 覆盖结果" MODIFIED="1745939383593" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/news" />
+    <SUITE FILE_PATH="coverage/RPT_main$gate.coverage" NAME="gate 覆盖结果" MODIFIED="1755577836243" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/news" />
+    <SUITE FILE_PATH="coverage/RPT_main$swt2.coverage" NAME="swt2 覆盖结果" MODIFIED="1746681166975" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/news" />
+    <SUITE FILE_PATH="coverage/RPT_main$test.coverage" NAME="test 覆盖结果" MODIFIED="1754442871469" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/RPT_main$mask_generalization_mri.coverage" NAME="mask_generalization_mri 覆盖结果" MODIFIED="1752661542426" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/visualization" />
+    <SUITE FILE_PATH="coverage/RPT_main$main_m.coverage" NAME="main_m 覆盖结果" MODIFIED="1753253744085" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/visualization" />
+    <SUITE FILE_PATH="coverage/RPT_main$_PRCV_2023_GLSA__.coverage" NAME="(PRCV 2023)GLSA(小目标检测，医学图像分割) 覆盖结果" MODIFIED="1745747415174" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../../BaiduNetdiskDownload" />
+    <SUITE FILE_PATH="coverage/RPT_main$Conv2Fomer.coverage" NAME="Conv2Fomer 覆盖结果" MODIFIED="1745938889275" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/news" />
+    <SUITE FILE_PATH="coverage/RPT_main$mask_generalization_cmr.coverage" NAME="mask_generalization_cmr 覆盖结果" MODIFIED="1750058949487" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/visualization" />
+    <SUITE FILE_PATH="coverage/RPT_main$_Arxiv2024_SCSA.coverage" NAME="(Arxiv2024)SCSA空间通道协同注意力 覆盖结果" MODIFIED="1745747031193" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/news" />
+    <SUITE FILE_PATH="coverage/RPT_main$_CVPR_2024_FADC.coverage" NAME="(CVPR 2024)FADC频率自适应扩张卷积模块 覆盖结果" MODIFIED="1745746957291" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../../BaiduNetdiskDownload" />
+    <SUITE FILE_PATH="coverage/RPT_main$draw.coverage" NAME="draw 覆盖结果" MODIFIED="1750059936271" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/visualization" />
+    <SUITE FILE_PATH="coverage/RPT_main$sla.coverage" NAME="sla 覆盖结果" MODIFIED="1747994276323" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/news" />
+    <SUITE FILE_PATH="coverage/RPT_main$config.coverage" NAME="config 覆盖结果" MODIFIED="1750059896675" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/RPT_main$gam.coverage" NAME="gam 覆盖结果" MODIFIED="1747283647647" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/news" />
+    <SUITE FILE_PATH="coverage/RPT_main$eca.coverage" NAME="eca 覆盖结果" MODIFIED="1755577311275" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/news" />
+    <SUITE FILE_PATH="coverage/RPT_main$hilo.coverage" NAME="hilo 覆盖结果" MODIFIED="1748011793451" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/news" />
+    <SUITE FILE_PATH="coverage/RPT_main$STVit.coverage" NAME="STVit 覆盖结果" MODIFIED="1746541276383" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/news" />
+    <SUITE FILE_PATH="coverage/RPT_main$heat.coverage" NAME="heat 覆盖结果" MODIFIED="1755763395143" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/visualization" />
+    <SUITE FILE_PATH="coverage/RPT_main$afno.coverage" NAME="afno 覆盖结果" MODIFIED="1747907504731" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/news" />
+    <SUITE FILE_PATH="coverage/RPT_main$EA.coverage" NAME="EA 覆盖结果" MODIFIED="1753058749117" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/news" />
+    <SUITE FILE_PATH="coverage/RPT_main$_ICML_2024_SLAttention_CVNLP_.coverage" NAME="(ICML 2024)SLAttention简化线性注意力，图像分类，目标检测(CV和NLP通用) 覆盖结果" MODIFIED="1745747187935" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../../BaiduNetdiskDownload" />
+    <SUITE FILE_PATH="coverage/RPT_main$_PRCA_2023_SBA_____.coverage" NAME="(PRCA 2023)SBA((小目标检测，医学图像分割,暗光增强)) 覆盖结果" MODIFIED="1745747424526" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../../BaiduNetdiskDownload" />
+    <SUITE FILE_PATH="coverage/RPT_main$_AAAI_FFA.coverage" NAME="(AAAI)FFA特征融合注意力模块 覆盖结果" MODIFIED="1745926589221" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../../BaiduNetdiskDownload" />
+    <SUITE FILE_PATH="coverage/RPT_main$5_1_Gated_Fusion.coverage" NAME="5_1_Gated_Fusion 覆盖结果" MODIFIED="1746782400496" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../../论文/模块/dream_code" />
+    <SUITE FILE_PATH="coverage/RPT_main$draw2.coverage" NAME="draw2 覆盖结果" MODIFIED="1751186672757" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/visualization" />
+    <SUITE FILE_PATH="coverage/RPT_main$mask.coverage" NAME="mask 覆盖结果" MODIFIED="1751197479902" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/visualization" />
+    <SUITE FILE_PATH="coverage/RPT_main$swt.coverage" NAME="swt 覆盖结果" MODIFIED="1746680534577" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/news" />
+    <SUITE FILE_PATH="coverage/RPT_main$FADC.coverage" NAME="FADC 覆盖结果" MODIFIED="1745746924363" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/news" />
+    <SUITE FILE_PATH="coverage/RPT_main$mask_generalization_ct.coverage" NAME="mask_generalization_ct 覆盖结果" MODIFIED="1755770600275" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/visualization" />
+  </component>
+</project>
