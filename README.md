@@ -14,16 +14,16 @@ If you find this code base useful, please cite our paper. Thanks!
 Please install essential dependencies (see `requirements.txt`) 
 
 ```
-dcm2nii
-nibabel==2.5.1
-numpy==1.21.6
-opencv-python==4.1.1
-Pillow==9.5.0 
-sacred==0.7.5
-scikit-image==0.14.0
-SimpleITK==1.2.3
-torch==1.8.1
-torchvision==0.9.1
+pillow
+nibabel==5.3.2
+numpy==1.26.4
+opencv-python==4.11.0.86 
+sacred==0.8.7
+scikit-image==0.24.0
+SimpleITK==2.4.1
+torch==2.2.1
+torchaudio==2.2.1
+torchvision==0.17.1
 ```
 
 ### 2. Data pre-processing 
