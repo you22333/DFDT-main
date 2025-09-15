@@ -66,13 +66,14 @@ run `./data/<CHAOST2/SABS>class_slice_index_gen.ipynb`
 
 ### Training  
 1. Download pre-trained ResNet-101 weights [vanilla version](https://download.pytorch.org/models/resnet101-63fe2227.pth) or [deeplabv3 version](https://download.pytorch.org/models/deeplabv3_resnet101_coco-586e9e4e.pth) and put your checkpoints `./pretrained_model/hub/checkpoints` folder,
-2. Run `training.py` 
- 
+2. Run `train_SABS.py`
+       `train_CHAOST2.py`
+       `train_CMR.py`
 
 ### Testing
-Run `train_SABS.py`
-    `train_CHAOST2.py`
-    `train_CMR.py`
+Run `test_SABS.py`
+    `test_CHAOST2.py`
+    `test_CMR.py`
 
 ### Acknowledgement
 This code is based on [SSL-ALPNet](https://arxiv.org/abs/2007.09886v2) (ECCV'20) by [Ouyang et al.](https://github.com/cheng-01037/Self-supervised-Fewshot-Medical-Image-Segmentation.git)
