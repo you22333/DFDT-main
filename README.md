@@ -1,9 +1,7 @@
 ## Few-Shot Medical Image Segmentation via Dual-Stream Feature  Extractor and Detail-Enhanced Prototype Transformer
 
 
-**Abstract**:
-
-Few-shot segmentation (FSS) has emerged as a promising approach for medical image analysis, especially in scenarios where annotated data is limited. However, the performance of existing prototypical networks is typically hindered by two critical challenges: 1) intra-class variation arising from feature distribution discrepancies between support and query sets. 2) Extreme inter-class imbalance, often exacerbated by complex background structures. To tackle these challenges, we propose an innovative dual-stream prototype optimization framework, the Dual-stream Feature Extractor and Detail-enhancing prototype Transformer (DFDT). Firstly, we introduce a Dual-stream Visual Feature Fusion (DVFF) module that simultaneously merges local and global features, generating detailed, semantically rich interactions. This module enables the initial prototype to capture global semantics while preserving fine-grained details, effectively reducing intra-class variation. Subsequently, the iterative Prototype Detail Enhancement Transformer (PDET) is designed, employing iterative cycles of bias correction and detail enhancement. This component systematically filters confounding background noise from the prototype while reinforcing core information pertinent to the target foreground, significantly improving robustness against variations in complex backgrounds. Extensive experiments on three public medical imaging datasets demonstrate that the proposed DFDT model achieves significant performance gains over current state-of-the-art methods.
+we propose an innovative dual-stream prototype optimization framework, the Dual-stream Feature Extractor and Detail-enhancing prototype Transformer (DFDT).
 **NOTE: We are actively updating this repository**
 
 If you find this code base useful, please cite our paper. Thanks!
