@@ -4,6 +4,10 @@
 we propose an innovative dual-stream prototype optimization framework, the Dual-stream Feature Extractor and Detail-enhancing prototype Transformer (DFDT).
 **NOTE: We are actively updating this repository**
 
+<p align="center">
+  <img src="fig/result.png" width=70%> <br>
+</p>
+
 If you find this code base useful, please cite our paper. Thanks!
 
 
